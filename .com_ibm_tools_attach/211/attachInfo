@@ -1,0 +1,9 @@
+version=0.1
+userId=root
+userUid=0
+processId=211
+vmId=211
+displayName=com.ibm.ctg.util.CTGLaunch\ CTG\ -quiet\ -adminport\=2810
+notifier=_notifier
+replyFile=/tmp/.com_ibm_tools_attach/211/replyInfo
+attachNotificationSync=/tmp/.com_ibm_tools_attach/211/attachNotificationSync

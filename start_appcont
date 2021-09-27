@@ -1,0 +1,17 @@
+#!/bin/bash
+start_server()
+{
+	/work/runAppl.sh
+}
+
+stop_server()
+{
+  echo "Stopping Application Container ..................."
+}
+
+#/work/runAppl.sh
+#trap  TERM INT
+while true
+do
+	sleep 30
+done
